@@ -4,6 +4,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
+[![Step 4, Merge your pull request](https://github.com/Moises93/introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)](https://github.com/Moises93/introduction-to-github/actions/workflows/4-merge-your-pull-request.yml)
 
 # Introduction to GitHub
 
